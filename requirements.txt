@@ -1,0 +1,9 @@
+streamlit
+fastapi
+requests
+pyttsx3
+streamlit-mic-recorder
+SpeechRecognition
+pydub
+pandas
+streamlit-autorefresh
